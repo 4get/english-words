@@ -308,9 +308,9 @@ x/s/c 互换举例
          为什么“lux-词根：光”——
              light光线 lamp台灯  lantern灯笼  lumin流明灯
              lux-光，变化自“light”
-             illusion幻觉、幻想、错觉（il=im-无，lus-灯，无光）
+             illusion幻觉、幻想、错觉（il=im-无，lus-灯，无光）   // this -> thus   i->u
              lucid明白的，明晰的（luc-灯、光，id-的）
-             translucid透明的，透光的（trans=through，luc-灯、光）
+             translucid透明的，透光的（trans=through，luc-灯、光）  // tr由此到彼
              
            t/d/s 变化举例
            膨胀：动词-expand
@@ -398,7 +398,7 @@ affect影响、感动
 effect结果、效果
 补充讲解：辅音双写
 单词末尾的辅音双写：
-kettle壶（ket-嘴，t-无义双写，le-名词后缀）
+kettle壶（ket-嘴，t-无义双写，le-名词后缀） // ket -> kiss
 单词开头的辅音双写：
 a ??——a ?——无义（ac-特殊）
 e ??——e ?——外
@@ -553,12 +553,12 @@ l-舌， lingua-舌头（ling-舌）
 linguist-语言学家（ling-舌）
 language-语言 （ling-舌）
 l-臂，
-l-腿，
-l-男性性征，
+l-腿， leg long
+l-男性性征， 
       love爱（l-男、v-女）
       v/f/w-女性
       woman-女人
-      female -女性
+      female -女性  // widow fuck
 vagina阴道
       vig-生命
       vigor生命、活力（vig-生命）
@@ -605,8 +605,8 @@ legend传奇（leg-说，end-名词后缀）
 dialect方言（dia-相对的，lect-说，语言）
 limb手臂，翼
 lect-拿，选择
-elect选择
-select精挑细选
+elect选择  // 选择了
+select精挑细选 // 可持续性动词
 love-爱
 v/f/w-女性
 woman-female
@@ -779,6 +779,8 @@ v-女性
       v-路
       v-看
       vis-看
+	  
+	  
 考点：四级考试核心词汇700
 1.alter[] v. 改变，改动，变更（词源：alter 变化自 other）
 alternate 交替，轮流，换班
