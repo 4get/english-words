@@ -1,1 +1,1 @@
-grep -i $1 *txt
+grep -ri $1 liuyinan yuminhong
